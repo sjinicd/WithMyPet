@@ -31,7 +31,7 @@
 </table>
 </br>
 
-## 👉사용한 기술🛠
+## 🛠사용한 기술
 ![Stack](https://user-images.githubusercontent.com/75344302/112785046-0f37c100-908e-11eb-8f10-249dd5a9a63d.png)
 </br></br>
 
