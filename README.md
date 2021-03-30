@@ -16,23 +16,27 @@
 ● 쇼핑몰 기능 구현으로 커뮤니티 뿐만 아닌 다목적 사이트
 
 
-## 함께해조의 팀원소개👩‍👩👩‍👩👨‍👨
+## 👉 함께해조의 팀원소개👩‍👩👩‍👩👨‍👨
 
-|*Members*|*Contact*|
-|:---:|---|
-|**임연지**|[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Limy-901) [![Gmail Badge](https://img.shields.io/badge/-misty901@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misty901@naver.com)](mailto:misty901@naver.com)|
-|**차지현**|[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/chloeakazhixian) [![Gmail Badge](https://img.shields.io/badge/-thisis_chloe@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thisis_chloe@naver.com)](mailto:thisis_chloe@naver.com)|
-|**성진희**|[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dragongit94) [![Gmail Badge](https://img.shields.io/badge/-thecolorpoetic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thecolorpoetic@gmail.com)](mailto:thecolorpoetic@gmail.com)|
-|**이수진**|[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/leesujin123) [![Gmail Badge](https://img.shields.io/badge/-lsj432988@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsj432988@naver.com)](mailto:lsj432988@naver.com)|
-|**최우재**|[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/achoal1023) [![Gmail Badge](https://img.shields.io/badge/-achoal@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achoal@naver.com)](mailto:achoal@naver.com)|
-|**이옥석**|[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/suadeomgit) [![Gmail Badge](https://img.shields.io/badge/-suadeomgit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suadeomgit@gmail.com)](mailto:suadeomgit@gmail.com)|
+<table>
+  <tr>
+    <td align="center"><a href="https://limy-901.github.io/"><img src="https://user-images.githubusercontent.com/75344406/112979604-c4a06c80-9193-11eb-83ef-dd45f6a8df04.jpg" width="100px;" alt=""/><br /><sub><b>임연지</b></sub></a><br /><a href="https://github.com/Limy-901" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/leesujin123"><img src="https://user-images.githubusercontent.com/75344406/112979728-ed286680-9193-11eb-8d97-29b36aef7758.jpg" width="100px;" alt=""/><br /><sub><b>이수진</b></sub></a><br /><a href="https://github.com/leesujin123" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@chloeakazhixian"><img src="https://user-images.githubusercontent.com/75344406/112979786-03362700-9194-11eb-91a7-d27313c92bed.jpg" width="100px;" alt=""/><br /><sub><b>차지현</b></sub></a><br /><a href="https://github.com/chloeakazhixian" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@jinheesung"><img src="https://user-images.githubusercontent.com/75344406/112979529-a8043480-9193-11eb-9d76-b371414ec2f2.jpg" width="100px;" alt=""/><br /><sub><b>성진희</b></sub></a><br /><a href="https://github.com/sjinicd" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/achoal1023"><img src="https://user-images.githubusercontent.com/75344406/112979436-8c009300-9193-11eb-8c19-dc9763142003.jpg" width="100px;" alt=""/><br /><sub><b>최우재</b></sub></a><br /><a href="https://github.com/achoal1023" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/dhrtjr9"><img src="https://user-images.githubusercontent.com/75344406/112979385-75f2d280-9193-11eb-915a-15eeb3bb8385.jpg" width="100px;" alt=""/><br /><sub><b>이옥석</b></sub></a><br /><a href="https://github.com/dhrtjr9" title="Code">💻</a></td>
+   
+  </tr>
+</table>
 
 
 ## 사용한 기술🛠
-![Stack](https://user-images.githubusercontent.com/75344302/112785046-0f37c100-908e-11eb-8f10-249dd5a9a63d.png)
+![Stack](https://user-images.githubusercontent.com/75344302/112785046-0f37c100-908e-11eb-8f10-249dd5a9a63d.png)![g3-1]()
+
 
 ## 프로젝트 기간
-2021.02.01 ~ 2021.03.31
+2021.02.01 ~ 2021.03.31![duk]()
 
-
-## 
+![KakaoTalk_20201202_114359698]()
+![g10-13]()
