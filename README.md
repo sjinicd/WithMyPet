@@ -1,7 +1,9 @@
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-pink.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## With My Pet 소개🐶
+![위마펫 메인페이지](https://user-images.githubusercontent.com/75344406/112977326-e0eeda00-9190-11eb-934d-fce64a6352aa.jpg)
 
-![위마펫 메인페이지]
-<img src="https://user-images.githubusercontent.com/75344406/112976956-750c7180-9190-11eb-9234-8943c0dd9b9e.jpg" alt="Prunus" >
 
 
 ‘펫코노미(Petconomy)’라는 말을 들어보셨나요?<br>
@@ -31,5 +33,6 @@
 
 ## 프로젝트 기간
 2021.02.01 ~ 2021.03.31
+
 
 ## 
