@@ -32,7 +32,7 @@
    
   </tr>
 </table>
-</br></br>
+</br>
 
 ## 👉사용한 기술🛠
 ![Stack](https://user-images.githubusercontent.com/75344302/112785046-0f37c100-908e-11eb-8f10-249dd5a9a63d.png)
@@ -42,11 +42,6 @@
 2021.02.01 ~ 2021.03.31
 </br></br>
 ## 🎈 시연영상
-로그인<br>
-![이메일 비번 찾기](https://user-images.githubusercontent.com/75344406/112981984-e3543280-9196-11eb-8797-4669e9806ecb.gif)
-![회원가입 로그인](https://user-images.githubusercontent.com/75344406/112981988-e4855f80-9196-11eb-9298-47f304ff8414.gif)
-![팔로우 팔로잉](https://user-images.githubusercontent.com/75344406/112981990-e51df600-9196-11eb-9468-740f83a1a83b.gif)
-![정보수정 ](https://user-images.githubusercontent.com/75344406/112981993-e51df600-9196-11eb-8951-71e57f51a1b3.gif)
 
 
 
