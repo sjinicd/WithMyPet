@@ -4,7 +4,7 @@
 ## 🐶With My Pet 소개🐶
 ![위마펫 메인페이지](https://user-images.githubusercontent.com/75344406/112977326-e0eeda00-9190-11eb-934d-fce64a6352aa.jpg)
 
-### 소개글
+
 </br>
 
 ## 📌 ‘펫코노미(Petconomy)’라는 말을 들어보셨나요?
