@@ -39,7 +39,7 @@
 2021.02.01 ~ 2021.03.31
 </br></br>
 ## 🎈 시연영상
-
+https://www.youtube.com/watch?v=E7_hEN3_wmA
 
 
 
