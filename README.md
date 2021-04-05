@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-pink.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-pink.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## 🐶With My Pet 소개🐶
 ![위마펫 메인페이지](https://user-images.githubusercontent.com/75344406/112977326-e0eeda00-9190-11eb-934d-fce64a6352aa.jpg)
@@ -25,7 +25,7 @@
     <td align="center"><a href="https://velog.io/@chloeakazhixian"><img src="https://user-images.githubusercontent.com/75344406/112979786-03362700-9194-11eb-91a7-d27313c92bed.jpg" width="100px;" alt=""/><br /><sub><b>차지현</b></sub></a><br /><a href="https://github.com/chloeakazhixian" title="Code">💻</a></td>
     <td align="center"><a href="https://velog.io/@jinheesung"><img src="https://user-images.githubusercontent.com/75344406/112979529-a8043480-9193-11eb-9d76-b371414ec2f2.jpg" width="100px;" alt=""/><br /><sub><b>성진희</b></sub></a><br /><a href="https://github.com/sjinicd" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/achoal1023"><img src="https://user-images.githubusercontent.com/75344406/112979436-8c009300-9193-11eb-8c19-dc9763142003.jpg" width="100px;" alt=""/><br /><sub><b>최우재</b></sub></a><br /><a href="https://github.com/achoal1023" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/dhrtjr9"><img src="https://user-images.githubusercontent.com/75344406/112979385-75f2d280-9193-11eb-915a-15eeb3bb8385.jpg" width="100px;" alt=""/><br /><sub><b>이옥석</b></sub></a><br /><a href="https://github.com/dhrtjr9" title="Code">💻</a></td>
+    
    
   </tr>
 </table>
